@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
   <a href="https://portofolio.friendszone.site">
-    <img src="https://img.shields.io/badge/Live-Demo-181818?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Live-Preview-181818?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview" />
   </a>
 </p>
 
