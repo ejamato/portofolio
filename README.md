@@ -17,7 +17,7 @@
   <a href="https://github.com/ejamato/PORTOFOLIO">
     <img src="https://img.shields.io/badge/GitHub-Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
-  <a href="https://YOUR-DEMO-URL">
+  <a href="https://portofolio.friendszone.site">
     <img src="https://img.shields.io/badge/Live-Demo-181818?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
