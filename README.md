@@ -1,4 +1,4 @@
-# ⌘ PORTOFOLIO
+# PORTOFOLIO
 
 <p align="center">
   <samp>INTERACTIVE PERSONAL PORTFOLIO</samp>
@@ -12,11 +12,19 @@
   <br />
   <br />
   <samp>Explore · Discover · Connect</samp>
+  <br />
+  <br />
+  <a href="https://github.com/ejamato/PORTOFOLIO">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+  </a>
+  <a href="https://YOUR-DEMO-URL">
+    <img src="https://img.shields.io/badge/Live-Demo-181818?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 ---
 
-## ◈ Introduction
+## 01. Introduction
 
 **PORTOFOLIO** is an interactive personal portfolio inspired by video game interfaces.
 
@@ -26,10 +34,12 @@ Featuring game-inspired navigation, interactive elements, subtle animations, and
 
 > A portfolio that feels less like a website and more like an experience.
 
-## ⌘ Documentation
+---
+
+## 02. Documentation
 
 <details open>
-<summary><strong>01. Overview</strong></summary>
+<summary><strong>Overview</strong></summary>
 
 An overview of the project's concept and purpose.
 
@@ -41,11 +51,12 @@ An overview of the project's concept and purpose.
 | Status | In Development |
 | Developer | Eja |
 | Repository | [ejamato/PORTOFOLIO](https://github.com/ejamato/PORTOFOLIO) |
+| Live Demo | [Visit Website](https://YOUR-DEMO-URL) |
 
 </details>
 
 <details>
-<summary><strong>02. Features</strong></summary>
+<summary><strong>Features</strong></summary>
 
 Explore the core features and interactions.
 
@@ -62,7 +73,7 @@ Explore the core features and interactions.
 </details>
 
 <details>
-<summary><strong>03. Sections</strong></summary>
+<summary><strong>Portfolio Sections</strong></summary>
 
 The portfolio is organized into several interactive sections.
 
@@ -78,7 +89,7 @@ The portfolio is organized into several interactive sections.
 </details>
 
 <details>
-<summary><strong>04. Design Philosophy</strong></summary>
+<summary><strong>Design Philosophy</strong></summary>
 
 The visual direction takes inspiration from modern video game interfaces.
 
@@ -94,7 +105,7 @@ The visual direction takes inspiration from modern video game interfaces.
 </details>
 
 <details>
-<summary><strong>05. Technology Stack</strong></summary>
+<summary><strong>Technology Stack</strong></summary>
 
 Technologies used in the development process.
 
@@ -111,7 +122,7 @@ Additional libraries may be introduced for animation, audio, and interactive exp
 </details>
 
 <details>
-<summary><strong>06. Installation</strong></summary>
+<summary><strong>Installation</strong></summary>
 
 Follow these steps to run the project locally.
 
@@ -140,7 +151,7 @@ Open the project using your preferred development server, such as VS Code Live S
 </details>
 
 <details>
-<summary><strong>07. Project Structure</strong></summary>
+<summary><strong>Project Structure</strong></summary>
 
 An overview of the project's directory organization.
 
@@ -165,7 +176,7 @@ PORTOFOLIO/
 </details>
 
 <details>
-<summary><strong>08. Customization</strong></summary>
+<summary><strong>Customization</strong></summary>
 
 The project can be modified and extended to suit different preferences.
 
@@ -181,7 +192,7 @@ You can customize:
 </details>
 
 <details>
-<summary><strong>09. Development</strong></summary>
+<summary><strong>Development Status</strong></summary>
 
 <kbd>IN DEVELOPMENT</kbd>
 
@@ -191,11 +202,13 @@ This project is continuously evolving. Features, interface components, and inter
 
 ---
 
-## ⌗ Credits
+## 03. Credits
 
 Inspired by video game interfaces, interactive digital experiences, and creative portfolio designs.
 
-## ⌘ Connect
+---
+
+## 04. Connect
 
 <p align="center">
   <a href="https://github.com/ejamato">
@@ -203,10 +216,9 @@ Inspired by video game interfaces, interactive digital experiences, and creative
   </a>
 </p>
 
+---
+
 <p align="center">
-  <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
-  <br />
-  <br />
   <strong>PORTOFOLIO</strong>
   <br />
   <samp>DESIGNED TO BE EXPLORED.</samp>
